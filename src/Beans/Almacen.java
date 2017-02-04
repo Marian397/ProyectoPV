@@ -13,6 +13,7 @@ public class Almacen {
     private int idAlmacen;
     private String nombreAlmacen;
     private String fechaCreacion;
+    private String hola;
 
     public int getIdAlmacen() {
         return idAlmacen;
